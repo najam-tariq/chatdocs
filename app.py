@@ -1,5 +1,4 @@
 import streamlit as st
-import nltk
 import g4f
 import PyPDF2
 import random
